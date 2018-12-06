@@ -7,12 +7,11 @@ It is standard U.S. layout, with extra modifier when clicking `options` button:
   `e` => `ê`  
   `s` => `ş`  
   `c` => `ç`  
-  `i` => `î`
-  `u` => `û`
+  `i` => `î`  
+  `u` => `û`  
 
 
 Those modifiers includes also german letters on its default places - right hand letters:  `ß` `ö` `ä` `ü`
-
 
 ## installation
 
